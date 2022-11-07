@@ -1,0 +1,316 @@
+Execution Time: 00:00:00.0001932 ms.
+The Index of array1 was: 3.
+Sorted: 
+13
+45
+55
+78
+98
+
+Execution Time: 00:00:00.0011721 ms.
+Element is present at index 3
+Execution Time: 00:00:00.0003208 ms.
+
+Selection sort Initial array is:56
+1
+99
+67
+89
+23
+44
+12
+78
+34
+
+
+Sorted array is: 1
+12
+23
+34
+44
+56
+67
+78
+89
+99
+
+Execution Time: 00:00:00 ms.
+0
+0
+1
+0
+0
+5
+3
+0
+6
+
+Execution Time: 00:00:00 ms.
+Execution Time: 00:00:00.0001871 ms.
+The Index of array1 was: 3.
+Sorted: 
+13
+45
+55
+78
+98
+
+Execution Time: 00:00:00.0058823 ms.
+Element is present at index 3
+Execution Time: 00:00:00.0003843 ms.
+
+Selection sort Initial array is:56
+1
+99
+67
+89
+23
+44
+12
+78
+34
+
+
+Sorted array is: 1
+12
+23
+34
+44
+56
+67
+78
+89
+99
+
+Execution Time: 00:00:00 ms.
+0
+0
+1
+0
+0
+5
+3
+0
+6
+
+Execution Time: 00:00:00 ms.
+Execution Time: 00:00:00.0002288 ms.
+The Index of array1 was: 3.
+Sorted: 
+13
+45
+55
+78
+98
+
+Execution Time: 00:00:00.0043262 ms.
+Element is present at index 3
+Execution Time: 00:00:00.0003378 ms.
+
+Selection sort Initial array is:56
+1
+99
+67
+89
+23
+44
+12
+78
+34
+
+
+Sorted array is: 1
+12
+23
+34
+44
+56
+67
+78
+89
+99
+
+Execution Time: 00:00:00 ms.
+0
+0
+1
+0
+0
+5
+3
+0
+6
+
+Execution Time: 00:00:00 ms.
+Execution Time: 00:00:00.0006460 ms.
+The Index of array1 was: 3.
+Sorted: 
+13
+45
+55
+78
+98
+
+Execution Time: 00:00:00.0013256 ms.
+Element is present at index 3
+Execution Time: 00:00:00.0002163 ms.
+
+Selection sort Initial array is:56
+1
+99
+67
+89
+23
+44
+12
+78
+34
+
+
+Sorted array is: 1
+12
+23
+34
+44
+56
+67
+78
+89
+99
+
+Execution Time: 00:00:00 ms.
+0
+0
+1
+0
+0
+5
+3
+0
+6
+
+Execution Time: 00:00:00 ms.
+Execution Time: 00:00:00.0001929 ms.
+The Index of array1 was: 3.
+Sorted: 
+13
+45
+55
+78
+98
+
+Execution Time: 00:00:00.0077030 ms.
+Element is present at index 3
+Execution Time: 00:00:00.0002914 ms.
+
+Selection sort Initial array is:56
+1
+99
+67
+89
+23
+44
+12
+78
+34
+
+
+Sorted array is: 1
+12
+23
+34
+44
+56
+67
+78
+89
+99
+
+Execution Time: 00:00:00 ms.
+0
+0
+1
+0
+0
+5
+3
+0
+6
+
+Execution Time: 00:00:00 ms.
+Execution Time: 00:00:00.0001884 ms.
+The Index of array1 was: 3.
+Sorted: 
+13
+45
+55
+78
+98
+
+Execution Time: 00:00:00.0011448 ms.
+Element is present at index 3
+Execution Time: 00:00:00.0002294 ms.
+
+Selection sort Initial array is:56
+1
+99
+67
+89
+23
+44
+12
+78
+34
+
+
+Sorted array is: 1
+12
+23
+34
+44
+56
+67
+78
+89
+99
+
+Execution Time: 00:00:00 ms.
+0
+0
+1
+0
+0
+5
+3
+0
+6
+
+Execution Time: 00:00:00 ms.
+Given Array
+Execution Time: 00:00:00 ms.
+12
+
+11
+
+13
+
+5
+
+6
+
+7
+
+
+Sorted array
+5
+
+6
+
+7
+
+11
+
+12
+
+13
+

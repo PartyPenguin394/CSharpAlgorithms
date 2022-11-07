@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\Certification_Starting_Algor\Certification_Starting_Algor\bin\Debug\net6.0\Certification_Starting_Algor.exe
+C:\Users\Administrator\source\repos\Certification_Starting_Algor\Certification_Starting_Algor\bin\Debug\net6.0\Certification_Starting_Algor.deps.json
+C:\Users\Administrator\source\repos\Certification_Starting_Algor\Certification_Starting_Algor\bin\Debug\net6.0\Certification_Starting_Algor.runtimeconfig.json
+C:\Users\Administrator\source\repos\Certification_Starting_Algor\Certification_Starting_Algor\bin\Debug\net6.0\Certification_Starting_Algor.dll
+C:\Users\Administrator\source\repos\Certification_Starting_Algor\Certification_Starting_Algor\bin\Debug\net6.0\Certification_Starting_Algor.pdb
+C:\Users\Administrator\source\repos\Certification_Starting_Algor\Certification_Starting_Algor\obj\Debug\net6.0\Certification_Starting_Algor.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Certification_Starting_Algor\Certification_Starting_Algor\obj\Debug\net6.0\Certification_Starting_Algor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Certification_Starting_Algor\Certification_Starting_Algor\obj\Debug\net6.0\Certification_Starting_Algor.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Certification_Starting_Algor\Certification_Starting_Algor\obj\Debug\net6.0\Certification_Starting_Algor.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Certification_Starting_Algor\Certification_Starting_Algor\obj\Debug\net6.0\Certification_Starting_Algor.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Certification_Starting_Algor\Certification_Starting_Algor\obj\Debug\net6.0\Certification_Starting_Algor.dll
+C:\Users\Administrator\source\repos\Certification_Starting_Algor\Certification_Starting_Algor\obj\Debug\net6.0\refint\Certification_Starting_Algor.dll
+C:\Users\Administrator\source\repos\Certification_Starting_Algor\Certification_Starting_Algor\obj\Debug\net6.0\Certification_Starting_Algor.pdb
+C:\Users\Administrator\source\repos\Certification_Starting_Algor\Certification_Starting_Algor\obj\Debug\net6.0\Certification_Starting_Algor.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Certification_Starting_Algor\Certification_Starting_Algor\obj\Debug\net6.0\ref\Certification_Starting_Algor.dll
